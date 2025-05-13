@@ -25,7 +25,7 @@
 ## 项目结构
 
 ```
-soil-research-center/
+web/
 ├── public/            # 静态资源
 ├── src/               # 源代码
 │   ├── app/           # Next.js App Router
