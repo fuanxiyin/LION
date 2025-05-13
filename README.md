@@ -16,7 +16,7 @@
 - **新闻动态**：发布团队最新活动、研究进展和学术成就
 ## 技术栈
 
-- **前端框架**：Next.js 14
+- **前端框架**：Next.js
 - **UI框架**：TailwindCSS
 - **动画**：Framer Motion
 - **数据库**：SQLite (Better-SQLite3)
