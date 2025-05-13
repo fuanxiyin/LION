@@ -62,6 +62,7 @@ soil-research-center/
 - npm 包管理器
 
 ### 安装步骤
+这只是一个大概的安装步骤
 
 1. 克隆代码库
    ```bash
@@ -86,22 +87,11 @@ soil-research-center/
 5. 生产环境构建
    ```bash
    npm run build
-   npm run start
    ```
 
-## 开发指南
-
-### 创建新页面
-
-在 `src/app` 目录下创建对应的目录和 `page.tsx` 文件。
-
-### 数据库操作
-
-使用 `src/lib/data/db.ts` 提供的函数进行数据库操作。
-
-### 添加新的API端点
-
-在 `src/app/api` 目录下创建新的路由处理函数。
+   ```bash
+   npm run start
+   ```
 
 
 ## 许可证
@@ -117,5 +107,5 @@ GNU通用公共许可证v3 (GPL-3.0)
 ## 联系方式
 
 如有任何问题或建议，请联系：
-- 邮箱：your-email@example.com
-- 网站：https://www.example.com
+- 邮箱：ykyh28@qq.com
+- 网站：https://lab.ykyh.tech
