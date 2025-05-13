@@ -1,6 +1,6 @@
 # 侯静涛老师课题组
 
-![侯静涛老师课题组](https://lab.ykyh.tech/)
+[侯静涛老师课题组](https://lab.ykyh.tech/)
 
 ## 项目简介
 
