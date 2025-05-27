@@ -1,0 +1,31 @@
+{
+  "researchFeatures": [
+    {
+      "id": 1,
+      "title": "多学科交叉",
+      "description": "融合土壤学、微生物学、环境科学等多学科知识",
+      "order": 1,
+      "isActive": true,
+      "createdAt": "2023-01-01T00:00:00.000Z",
+      "updatedAt": "2025-05-10T15:07:15.581Z"
+    },
+    {
+      "id": 2,
+      "title": "技术创新",
+      "description": "开发新型土壤修复技术和环境友好型材料",
+      "order": 2,
+      "isActive": true,
+      "createdAt": "2023-01-01T00:00:00.000Z",
+      "updatedAt": "2025-05-10T15:07:00.899Z"
+    },
+    {
+      "id": 3,
+      "title": "产学研结合",
+      "description": "注重科研成果转化，服务农业生产实践",
+      "order": 3,
+      "isActive": true,
+      "createdAt": "2023-01-01T00:00:00.000Z",
+      "updatedAt": "2025-05-10T15:07:00.899Z"
+    }
+  ]
+}
