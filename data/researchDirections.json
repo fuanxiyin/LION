@@ -1,0 +1,49 @@
+{
+  "researchDirections": [
+    {
+      "id": 1,
+      "title": "土壤污染与修复",
+      "description": "研究各类污染物在土壤中的迁移转化规律，开发新型土壤修复技术与材料",
+      "order": 1,
+      "isActive": true,
+      "createdAt": "2023-01-01T00:00:00.000Z",
+      "updatedAt": "2025-05-10T15:06:47.498Z"
+    },
+    {
+      "id": 2,
+      "title": "土壤微生物组学与功能研究",
+      "description": "利用高通量测序等技术研究土壤微生物群落结构与功能，探索有益微生物的应用",
+      "order": 2,
+      "isActive": true,
+      "createdAt": "2023-01-01T00:00:00.000Z",
+      "updatedAt": "2025-05-10T15:06:47.498Z"
+    },
+    {
+      "id": 3,
+      "title": "土壤固碳与温室气体减排",
+      "description": "研究农业生态系统中碳氮磷循环规律，探索温室气体减排技术",
+      "order": 3,
+      "isActive": true,
+      "createdAt": "2023-01-01T00:00:00.000Z",
+      "updatedAt": "2025-05-11T03:21:40.855Z"
+    },
+    {
+      "id": 4,
+      "title": "土壤健康评价与改良技术",
+      "description": "建立土壤健康评价指标体系，研发土壤改良技术",
+      "order": 4,
+      "isActive": true,
+      "createdAt": "2023-01-01T00:00:00.000Z",
+      "updatedAt": "2025-05-10T15:06:47.498Z"
+    },
+    {
+      "id": 5,
+      "title": "精准施肥与养分管理技术",
+      "description": "结合作物需求和土壤条件，研发精准施肥技术和养分管理系统",
+      "order": 5,
+      "isActive": true,
+      "createdAt": "2023-01-01T00:00:00.000Z",
+      "updatedAt": "2025-05-10T15:06:47.498Z"
+    }
+  ]
+}
