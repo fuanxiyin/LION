@@ -5,8 +5,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "侯老师课题组",
-  description: "专注于土壤污染修复与可持续农业研究的实验室",
+  title: "北京林业大学LION实验室",
+  description: "专注于智能优化与网络研究的实验室",
 };
 
 export default function RootLayout({
